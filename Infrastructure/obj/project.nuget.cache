@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "btlrTF9h+wysqQ5NH1mlF37Z0qi+o0knkPrN0RDSNh9vZKb+CGfz595Y7VC9y5ZvHEWCYWABNqqLdN6qEJ+5DA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\Desktop\\.NetProjetcs\\Dapper\\API\\SimpleCrudWebApiInstagram\\Infrastructure\\Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\npgsql\\8.0.2\\npgsql.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
